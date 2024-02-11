@@ -24,4 +24,4 @@ cd my_project
 git init
 ```
 Это лишь некоторые функции markdown.
-[Шпаргалка по markdown] (https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c "русскоязычная шпаргалка на github")
+[Шпаргалка по markdown](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c "русскоязычная шпаргалка на github")
