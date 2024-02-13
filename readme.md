@@ -25,3 +25,17 @@ git init
 ```
 Это лишь некоторые функции markdown.
 [Шпаргалка по markdown](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c "русскоязычная шпаргалка на github")
+
+Ссылка на соглашение о написании комментариев к коммитам: https://www.conventionalcommits.org/ru/v1.0.0-beta.4/#спецификация
+
+В md-файл можно добавлять схемы!
+Вот тут полное руководство: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+
+```mermaid
+graph LR;
+  untracked -- "git add" --> staged;
+  staged    -- "???"     --> tracked/comitted;
+
+%% стрелка без текста для примера: 
+  A --> B;
+```
